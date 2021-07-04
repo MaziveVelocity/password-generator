@@ -11,4 +11,4 @@ sites or applications they are using.
 *CSS
 #Javascript
 
-![Page Screenshot](/assets/password-gen-screenshot)
+![Page Screenshot](assets/password-gen-screenshot.png)
