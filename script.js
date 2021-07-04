@@ -1,6 +1,6 @@
 // Assignment code here
 function random(arry){
-  var ranIndex = Math.floor(Math.random() * arry.length) + 1;
+  var ranIndex = Math.floor(Math.random() * arry.length);
   return ranIndex;
 }
 
