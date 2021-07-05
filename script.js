@@ -28,7 +28,7 @@ function generatePassword(){
 
   
 
-  for (i = password.length + 1; i < passLength; i++){
+  for (i = password.length; i < passLength; i++){
     var ranParam = Math.floor(Math.random() * 4) + 1;
     console.log("Random Param: " + ranParam);
 
