@@ -7,8 +7,8 @@ sites or applications they are using.
 
 ## Languages
 
-*HTML
-*CSS
+* HTML
+* CSS
 #Javascript
 
 ![Page Screenshot](assets/password-gen-screenshot.png)
