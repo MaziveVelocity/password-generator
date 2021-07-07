@@ -9,6 +9,6 @@ sites or applications they are using.
 
 * HTML
 * CSS
-#Javascript
+* Javascript
 
 ![Page Screenshot](assets/password-gen-screenshot.png)
